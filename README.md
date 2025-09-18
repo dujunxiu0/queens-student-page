@@ -1,1 +1,1 @@
-# quuens-student-page
+# queens-student-page
