@@ -4,6 +4,9 @@
 Binary Search Visualizer
 
 #Demo screenshot
+
+Please see demo screen 1,2 
+
 ##Problem break
 
 I chose "binary search" as the algorithm for this project because it is an efficient and well-structured search algorithm that effectively embodies the concept of computational thinking. Moreover, it is the algorithm I use most frequently in my daily work, and I really like it. I have chosen it as an attempt for this assignment. This can enhance my application of it.
