@@ -10,9 +10,13 @@ I chose "binary search" as the algorithm for this project because it is an effic
 
 #Decomposition
 Parse the user’s input string into a list of integers.
+
 Sort the list before applying binary search.
+
 Implement the binary search algorithm using "low", "mid", and "high".
+
 Record each step of the algorithm in a readable text format.
+
 Build a Gradio UI to connect user input with the algorithm output.
 
 #Pattern Recognition
