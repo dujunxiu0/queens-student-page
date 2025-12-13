@@ -20,6 +20,7 @@ Record each step of the algorithm in a readable text format.
 Build a Gradio UI to connect user input with the algorithm output.
 
 #Pattern Recognition
+
 Binary search follows a repeated pattern:
 Calculate the middle index.
 Compare the middle value with the target.
